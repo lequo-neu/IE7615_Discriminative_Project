@@ -1,55 +1,55 @@
 # Core ML/DL libraries for Apple Silicon (M1/M2/M3)
 # TensorFlow with Metal GPU acceleration
-tensorflow-macos==2.14.0
-tensorflow-metal==1.1.0
+tensorflow-macos
+tensorflow-metal
 
 # IMPORTANT: Do NOT install standalone 'keras' package
 # Keras is included in tensorflow-macos
 # Use: from tensorflow import keras
 
 # PyTorch for Apple Silicon
-torch==2.1.0
-torchvision==0.16.0
+torch
+torchvision
 
 # Computer Vision
-opencv-python==4.8.1.78
-opencv-contrib-python==4.8.1.78
-albumentations==1.3.1
+opencv-python
+opencv-contrib-python
+albumentations
 
 # Object Detection
-ultralytics==8.1.0
+ultralytics
 
 # Data processing
-numpy==1.24.3
-pandas==2.0.3
-scikit-learn==1.3.2
-scipy==1.11.4
+numpy
+pandas
+scikit-learn
+scipy
 
 # Visualization
-matplotlib==3.8.2
-seaborn==0.13.0
-plotly==5.18.0
+matplotlib
+seaborn
+plotly
 
 # Progress bars
-tqdm==4.66.1
+tqdm
 
 # Image processing
-Pillow==10.1.0
+Pillow
 
 # Jupyter
-jupyter==1.0.0
-ipykernel==6.27.1
-notebook==7.0.6
+jupyter
+ipykernel
+notebook
 
 # Application
-streamlit==1.29.0
+streamlit
 
 # Utilities
-pyyaml==6.0.1
-openpyxl==3.1.2
+pyyaml
+openpyxl
 
 # Testing
-pytest==7.4.3
+pytest
 
 # Installation notes for Apple Silicon:
 # 1. tensorflow-macos provides optimized TensorFlow for M1/M2/M3
