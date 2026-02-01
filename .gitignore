@@ -179,3 +179,28 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+
+# ML / DL
+*.h5
+*.pt
+*.onnx
+logs/
+results/
+
+# data
+*.jpg
+*.jpeg
+*.png
+*.csv
+grid*.txt

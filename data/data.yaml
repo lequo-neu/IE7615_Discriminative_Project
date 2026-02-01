@@ -1,0 +1,52 @@
+# YOLOv8 Dataset Configuration
+# Generated for CNN Attendance System Project
+
+path: /Users/kevin/Documents/GitHub/Python/VESKL/11.DAE/NEU/NEU_IE7615/Prj/Discriminative/G8/CNN_Attendance_System/data/multi_objects
+train: images/train
+val: images/val
+test: images/test
+
+# Number of classes
+nc: 39
+
+# Class names
+names:
+  0: OBJ001
+  1: OBJ002
+  2: OBJ003
+  3: OBJ004
+  4: OBJ005
+  5: OBJ006
+  6: OBJ007
+  7: OBJ008
+  8: OBJ009
+  9: OBJ010
+  10: OBJ012
+  11: OBJ016
+  12: OBJ018
+  13: OBJ019
+  14: OBJ021
+  15: OBJ022
+  16: OBJ027
+  17: OBJ028
+  18: OBJ029
+  19: OBJ031
+  20: OBJ061
+  21: OBJ069
+  22: OBJ090
+  23: OBJ095
+  24: OBJ107
+  25: OBJ108
+  26: OBJ111
+  27: OBJ159
+  28: OBJ208
+  29: OBJ222
+  30: OBJ229
+  31: OBJ230
+  32: OBJ300
+  33: OBJ311
+  34: OBJ405
+  35: OBJ786
+  36: OBJ787
+  37: OBJ788
+  38: OBJ789
