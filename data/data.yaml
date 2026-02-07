@@ -1,7 +1,7 @@
 # YOLOv8 Dataset Configuration
 # Generated for CNN Attendance System Project
 
-path: /Users/kevin/Documents/GitHub/Python/VESKL/11.DAE/NEU/NEU_IE7615/Prj/Discriminative/G8/CNN_Attendance_System/data/multi_objects
+path: /Users/kevin/Documents/GitHub/Python/VESKL/11.DAE/NEU/NEU_IE7615/Prj/Discriminative/G8/Project1/IE7615_Discriminative_Project/data/multi_objects
 train: images/train
 val: images/val
 test: images/test

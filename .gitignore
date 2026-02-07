@@ -196,7 +196,7 @@ __pycache__/
 
 # ML / DL
 *.h5
-*.pt
+#.pt
 *.onnx
 logs/
 results/
